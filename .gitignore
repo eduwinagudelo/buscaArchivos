@@ -1,0 +1,14 @@
+# Directories
+bin/
+obj/
+prc/
+data_pruebas/
+inp/
+logs/
+tmp/
+out/
+
+# Files
+*.log
+*.txt
+

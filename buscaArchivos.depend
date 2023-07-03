@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1487733370 source:/home/edwin/Development/CodeBlocks/buscaArchivos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<regex.h>
+	<dirent.h>
+	<string.h>
+	<errno.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+
